@@ -1,3 +1,2 @@
 ## PRIMEROES LO PRIMERO
- * Crear, add + commit y lugo ya gestionar
- 
+ * Crear, add + commit y luego ya gestionar
