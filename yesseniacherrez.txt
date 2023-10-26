@@ -1,8 +1,3 @@
 prueba 01
-<<<<<<< HEAD
-prueba desde visualcode
-habilitar un commit
-=======
 prueba 02 
 prueba 03
->>>>>>> Jcblandin-patch-1
