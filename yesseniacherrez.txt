@@ -5,3 +5,5 @@ rama nueva1
 segungo commit
 tercer commit
 cuarto commit
+quiero aprender
+perseverancia
