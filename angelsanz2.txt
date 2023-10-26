@@ -1,0 +1,4 @@
+nuevo archivo en mi nueva rama
+un cambio desde nueva rama
+otro cambio rana nueva
+cambio para fusionar y borrar rama
