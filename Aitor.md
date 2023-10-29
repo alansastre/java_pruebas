@@ -7,3 +7,5 @@ desde Github Desktop.
 
 Texto desde VSCode para provocar conflicto.
 Texto desde Github para provocar conflicto.
+
+cambio desde rama-Aitor-Pérez
