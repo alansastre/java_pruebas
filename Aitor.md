@@ -6,3 +6,4 @@ Pequeña modificación para hacer commit & Push
 desde Github Desktop.
 
 Texto desde VSCode para provocar conflicto.
+Texto desde Github para provocar conflicto.
