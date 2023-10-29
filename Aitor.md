@@ -4,3 +4,5 @@ Aitor.md
 
 Pequeña modificación para hacer commit & Push
 desde Github Desktop.
+
+Texto desde VSCode para provocar conflicto.
