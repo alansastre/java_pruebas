@@ -1,2 +1,2 @@
 Desarrollo de un nuevo Captcha.
-Para autentificar al usuario como no-bot.
+Para autenticar al usuario como no-bot.
