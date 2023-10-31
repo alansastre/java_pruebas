@@ -1,0 +1,860 @@
+[33mcommit d55cab589b13b0f83e971af5d3b88199b747125e[m[33m ([m[1;36mHEAD -> [m[1;32mCarlosDavidFelizRamirez[m[33m, [m[1;31morigin/CarlosDavidFelizRamirez[m[33m, [m[1;31morigin/Carlos-Nueva-Rama[m[33m)[m
+Author: Carlos David feliz Ramírez <carlos.felizramirez.3@gmail.com>
+Date:   Tue Oct 31 12:18:04 2023 +0100
+
+    Commit hecho desde la consola
+
+[33mcommit 9cb148a1a2b62bbc4589e498422bc367c5c1646e[m
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Thu Oct 26 16:59:28 2023 +0200
+
+    Prueba desde la Rama Carlos
+
+[33mcommit 0cd86a84294ea01a80cdc2e022f85319e4c81454[m[33m ([m[1;31morigin/CarlosDavidRama[m[33m)[m
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Thu Oct 26 16:31:27 2023 +0200
+
+    Cambios Hechos
+
+[33mcommit c191bd5f6699f049194d2748e312db54aa91d823[m
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Thu Oct 26 15:18:51 2023 +0200
+
+    cambios desde mi otra rama
+
+[33mcommit 95025d418b067dc62c3da34603f0f43b6076b4a9[m
+Merge: a2c3445 f9813a2
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Thu Oct 26 12:03:42 2023 +0200
+
+    Merge remote-tracking branch 'origin/ALEIDYS'
+
+[33mcommit a2c34458842d5923edd6a055f770200fe9b9a6f5[m
+Merge: d3d8102 e9b59db
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Thu Oct 26 12:02:57 2023 +0200
+
+    Merge branch 'Jcblandin- esto me aparece a mi alan
+
+[33mcommit d3d810277a7c880cb2b3755fe8b54e91c915e406[m
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Thu Oct 26 11:58:15 2023 +0200
+
+    por que se ve esta linea naranja asi? que falta ?
+
+[33mcommit 22fd07fc00f32c2258eb823b79d6b75cfad91561[m
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Thu Oct 26 11:49:09 2023 +0200
+
+    prueba
+
+[33mcommit bc44a362645a909ec86fd8edfd08797497aa5a75[m
+Merge: 0640dbf eeef378
+Author: Xissjava <148789001+Xissjava@users.noreply.github.com>
+Date:   Thu Oct 26 10:49:46 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 0640dbfdf4190c3069be84a7c03ffac549586672[m
+Author: Xissjava <148789001+Xissjava@users.noreply.github.com>
+Date:   Thu Oct 26 07:52:30 2023 +0200
+
+    Hello world
+
+[33mcommit eeef3784265883f18b57c2c756c71ed811ff277b[m
+Author: noemihd76 <noemihd76@gmail.com>
+Date:   Thu Oct 26 05:38:16 2023 +0200
+
+    prueba2
+
+[33mcommit d0670ce169973597b8b98cb96c07417d8a486289[m
+Author: noemihd76 <noemihd76@gmail.com>
+Date:   Thu Oct 26 05:30:54 2023 +0200
+
+    prueba
+
+[33mcommit 3d6a35fe2bc6820724fde37dbc6743019089ece4[m
+Author: noemihd76 <noemihd76@gmail.com>
+Date:   Thu Oct 26 05:29:27 2023 +0200
+
+    captura pantalla
+
+[33mcommit 7c1f79bc252619a3b566022af3cd3c68aca3d500[m
+Merge: 054bcab f77f89f
+Author: noemihd76 <noemihd76@gmail.com>
+Date:   Thu Oct 26 03:20:22 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 054bcabf9d191a7dc9e66113d721f307859651ca[m
+Author: noemihd76 <noemihd76@gmail.com>
+Date:   Thu Oct 26 03:20:07 2023 +0200
+
+    añadido texto
+
+[33mcommit f77f89f23241d643f59d464a1cf9cb376e0a9615[m[33m ([m[1;31morigin/Branch-silvia[m[33m)[m
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Thu Oct 26 00:32:06 2023 +0200
+
+    agregue capture
+
+[33mcommit 4af4de29e6ec3ecfdaffde6ea8acad9a921226f9[m
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Thu Oct 26 00:17:04 2023 +0200
+
+    Captura de pantalla documento compartido git
+
+[33mcommit 99beed1f390695246ffcd9210328c2138d32bcfc[m
+Author: Francisco Javier Baeza-Rojano Ossorio <148579168+JavierBRO@users.noreply.github.com>
+Date:   Wed Oct 25 21:56:23 2023 +0200
+
+    Update Javier.txt
+
+[33mcommit 81f7949573d7b9c4d7912e964f043afc42d95fbc[m
+Merge: 84ff672 5145075
+Author: Francisco Javier Baeza-Rojano Ossorio <148579168+JavierBRO@users.noreply.github.com>
+Date:   Wed Oct 25 21:52:02 2023 +0200
+
+    Merge branch 'feature-Javier' of https://github.com/alansastre/java_pruebas into feature-Javier
+
+[33mcommit 84ff672562f429ad44267efdaf3db8bc1f4274d7[m
+Author: Francisco Javier Baeza-Rojano Ossorio <148579168+JavierBRO@users.noreply.github.com>
+Date:   Wed Oct 25 21:51:13 2023 +0200
+
+    Update Javier.txt
+
+[33mcommit 51450755080af335106f700d9d5daf9787a2f643[m
+Author: Francisco Javier Baeza-Rojano Ossorio <148579168+JavierBRO@users.noreply.github.com>
+Date:   Wed Oct 25 21:47:38 2023 +0200
+
+    Update Javier.txt
+
+[33mcommit 2a984f5248ba9b3c4016fe61bdb242811aff340d[m
+Author: Francisco Javier Baeza-Rojano Ossorio <148579168+JavierBRO@users.noreply.github.com>
+Date:   Wed Oct 25 21:36:00 2023 +0200
+
+    Update Javier.md
+
+[33mcommit 5273bdf44bfc3dcda14f04bf70e24e91481cda7b[m
+Author: Francisco Javier Baeza-Rojano Ossorio <148579168+JavierBRO@users.noreply.github.com>
+Date:   Wed Oct 25 21:32:12 2023 +0200
+
+    Rama javier
+
+[33mcommit e10f1fc0b25dc015dad6294a14abadac0306bf37[m
+Author: Francisco Javier Baeza-Rojano Ossorio <148579168+JavierBRO@users.noreply.github.com>
+Date:   Wed Oct 25 21:15:04 2023 +0200
+
+    Update Javier.md
+
+[33mcommit 4fb4a7970bebe77679826b4f4815b1cb2e1d3c40[m
+Author: Francisco Javier Baeza-Rojano Ossorio <148579168+JavierBRO@users.noreply.github.com>
+Date:   Wed Oct 25 21:07:48 2023 +0200
+
+    Crear Javier.md
+
+[33mcommit eb0d605d4ac48ad7c432339bbeeea32ab5274a9f[m
+Author: Francisco Javier Baeza-Rojano Ossorio <148579168+JavierBRO@users.noreply.github.com>
+Date:   Wed Oct 25 20:59:26 2023 +0200
+
+    commit1
+
+[33mcommit 80633dac9e86155849867571e67bdf483163876f[m
+Author: salimijawad <148786253+salimijawad@users.noreply.github.com>
+Date:   Wed Oct 25 20:25:42 2023 +0200
+
+    Create for test
+
+[33mcommit f9813a2d292780fc0cc2bbb19537ee932d56bae9[m
+Author: ALEIDYS22 <148786566+ALEIDYS22@users.noreply.github.com>
+Date:   Wed Oct 25 20:21:07 2023 +0200
+
+    Create ALEIDYS
+    
+    JAVA PRUEBA
+
+[33mcommit 2dfc32f2e5cbfd9b50f97d2abd2e72ee573a4cc6[m
+Merge: 7bd6907 05ec7b9
+Author: noemihd76 <noemihd76@gmail.com>
+Date:   Wed Oct 25 20:19:08 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 7bd69079bd1d87118229f951f0e832c5906451cd[m
+Author: noemihd76 <noemihd76@gmail.com>
+Date:   Wed Oct 25 20:18:52 2023 +0200
+
+    a ver ahora
+
+[33mcommit 05ec7b92fcc6e2adf741950e6e127b8453199d06[m
+Merge: 5e8fe52 133effd
+Author: angelsc75 <asc7es@gmail.com>
+Date:   Wed Oct 25 20:18:00 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 5e8fe5285a2cbff577865e8cc452756fbf5058f7[m
+Author: angelsc75 <asc7es@gmail.com>
+Date:   Wed Oct 25 20:17:44 2023 +0200
+
+    cambio
+
+[33mcommit 133effd2f2dda81914a654735a3ec8f93d9fb43b[m
+Author: yesseniach <148784983+yesseniach@users.noreply.github.com>
+Date:   Wed Oct 25 20:16:50 2023 +0200
+
+    cambio en el commit
+
+[33mcommit c63f0affa78dd6be68448f6c665eb97e876e7c3b[m[33m ([m[1;31morigin/juan-pablo[m[33m)[m
+Merge: cb68c90 02c14fd
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 20:01:17 2023 +0200
+
+    Merge branch 'ssaBranch'
+
+[33mcommit 02c14fdc10d86f40c57e7778a27453005c0f9281[m
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 19:59:30 2023 +0200
+
+    Otro cambio
+
+[33mcommit cb68c9010287cc2a915de20c8e11c00b6da0c8ad[m
+Merge: 9ed17f3 5b4cd5b
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 19:57:37 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 9ed17f3e6f26d629a730f08f9311df6683047c0c[m
+Merge: 79e0821 d365b2e
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 19:57:25 2023 +0200
+
+    Merge branch 'ssaBranch'
+
+[33mcommit 5b4cd5bd2beaecca522116b902ae639ab6399d9f[m
+Merge: b4b031f 621169d
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Wed Oct 25 19:57:15 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 621169dee6d42887d8673dff03d2506a70b429cb[m
+Merge: 79e0821 b524cf4
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 19:55:08 2023 +0200
+
+    Merge branch 'order-status'
+
+[33mcommit b524cf4ce404cfd9a082cbb0a3db20eef78c9234[m
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 19:43:57 2023 +0200
+
+    commit orderstatus
+
+[33mcommit 79e082149e28c6be4a13e728a293bf6b0b8ee32a[m[33m ([m[1;31morigin/costumer_service_2023[m[33m)[m
+Author: jcblandin <yublandin@gmail.com>
+Date:   Wed Oct 25 19:33:57 2023 +0200
+
+    123457
+
+[33mcommit 1af7edf1bda5008f09d215501a95414494ada72b[m
+Merge: 0cf42b0 cd40f13
+Author: jcblandin <yublandin@gmail.com>
+Date:   Wed Oct 25 19:32:55 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit b4b031f59975cf25442532a3966dbad89aa1d9ce[m
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Wed Oct 25 19:31:30 2023 +0200
+
+    pureba de la rama carlos
+
+[33mcommit d365b2e5435eca3c32c31f0f825aeb30b7949e79[m
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 19:13:44 2023 +0200
+
+    Modificacion desde rama
+
+[33mcommit b0b3fe9b49c41df37c05c4efc8d5b6abcbdd368c[m
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 19:08:21 2023 +0200
+
+    Commit ssabranch
+
+[33mcommit cd40f133f8638faebb041efd62a5c639a527b028[m[33m ([m[1;31morigin/yessenia[m[33m)[m
+Merge: bdee5b4 4e72caa
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Wed Oct 25 18:59:23 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit bdee5b44ab8f8eb0b709245750b9b9f6e7044676[m
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Wed Oct 25 18:58:44 2023 +0200
+
+    hola
+
+[33mcommit 4e72caaa50e145e05f8414e5d80a5dabd8c12272[m
+Merge: f43ceb5 f585c26
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 18:58:43 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit f43ceb59b22f407b4b782dd491b7af872d518362[m[33m ([m[1;32malansastre[m[33m)[m
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 18:52:04 2023 +0200
+
+    ultimo cambio alansastre
+
+[33mcommit f99afb1da9e17435f684b7c251d45e781ad17bb7[m
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 18:44:25 2023 +0200
+
+    cambios en alansastre
+
+[33mcommit f585c262c46e9059c3b5322ca43a0cb8991d71c7[m
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Wed Oct 25 18:35:53 2023 +0200
+
+    porfin lo he conseguido
+
+[33mcommit 93a290cce958e226f7e753456edb9574ff3ab743[m
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Wed Oct 25 18:22:28 2023 +0200
+
+    Carlos David FR
+
+[33mcommit 7c7e7b3dad7c747cd0429a924262dd09ab2749eb[m
+Merge: 26cddc6 4cbe7ea
+Author: jcblandin <yublandin@gmail.com>
+Date:   Wed Oct 25 18:19:14 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 26cddc661910a23c7f2a14bb9557192591135c7f[m
+Author: jcblandin <yublandin@gmail.com>
+Date:   Wed Oct 25 18:19:07 2023 +0200
+
+    cambio
+
+[33mcommit 4cbe7ea5b9c1048ee3956e49916f17e618b37a04[m
+Merge: ac569e4 f96cdcc
+Author: angelmaria <angelmaria75@gmail.com>
+Date:   Wed Oct 25 18:18:23 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit ac569e4e4df43f18ff06624a473a7ecc32a8b1cc[m
+Author: angelmaria <angelmaria75@gmail.com>
+Date:   Wed Oct 25 18:18:08 2023 +0200
+
+    #4
+    
+    cambio relacionada con la tarea 4
+
+[33mcommit f96cdcc036d82786942004a50ed918adb9f337ed[m
+Merge: a27d2ab 74ac113
+Author: JehielL <jehiel.py@gmail.com>
+Date:   Wed Oct 25 18:16:09 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit a27d2ab378064f51f4b893b925d548d7533934f7[m
+Author: JehielL <jehiel.py@gmail.com>
+Date:   Wed Oct 25 18:16:07 2023 +0200
+
+    Prueba capture, agregado png prototipo.
+
+[33mcommit 74ac113bebfbe91b9e5d776065d052b1c3e90123[m
+Merge: 17bc8e8 7a596de
+Author: RONAL VELIZ <148784629+ronalveliz@users.noreply.github.com>
+Date:   Wed Oct 25 18:15:44 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 17bc8e879ca04bb8eba7d061c2f208979efe9314[m
+Author: RONAL VELIZ <148784629+ronalveliz@users.noreply.github.com>
+Date:   Wed Oct 25 18:15:41 2023 +0200
+
+    hola
+
+[33mcommit 7a596defd4174957c61cc3b2855da917c606982d[m
+Author: angelmaria <angelmaria75@gmail.com>
+Date:   Wed Oct 25 18:15:34 2023 +0200
+
+    cambio 2
+
+[33mcommit 33dcb4e37d01df099d1c1f515c3f53bcf51c8d06[m
+Author: john sebastian marmolejo castro <148784346+Lechattarre@users.noreply.github.com>
+Date:   Wed Oct 25 18:08:17 2023 +0200
+
+    Create john sebastian.txt
+
+[33mcommit 761e19e96988fd82e6829fac481dcdea8167b51d[m
+Author: yesseniach <148784983+yesseniach@users.noreply.github.com>
+Date:   Wed Oct 25 18:03:39 2023 +0200
+
+    prueba04
+
+[33mcommit 36b759273d8af969b57df7244a274ed54d00fba6[m
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 17:59:15 2023 +0200
+
+    #3 agregados print en python y java
+
+[33mcommit 3ab44923d2c104535442f2927d2eaba8e3b0c12a[m
+Merge: 80e5c4c 1a783aa
+Author: RONAL VELIZ <148784629+ronalveliz@users.noreply.github.com>
+Date:   Wed Oct 25 17:53:54 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 80e5c4cee3f8fe1f032af3be0fc202695f6554b2[m
+Author: RONAL VELIZ <148784629+ronalveliz@users.noreply.github.com>
+Date:   Wed Oct 25 17:53:51 2023 +0200
+
+    pon tu nombre
+
+[33mcommit 0cf42b0bc5a36e7c64e42098d0f131fc57c8b6c2[m
+Merge: 66b0448 1a783aa
+Author: jcblandin <yublandin@gmail.com>
+Date:   Wed Oct 25 17:53:13 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 1a783aa92cd2ce9c7d60a7670deceb8113f0bb0d[m
+Merge: 11da0da b01d189
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Wed Oct 25 17:52:51 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 11da0daa7ccfad485fc7721790dc711144d5a2bf[m
+Merge: 1a05453 bad6872
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Wed Oct 25 17:52:44 2023 +0200
+
+    solucionado
+
+[33mcommit b01d189a56756ff0aaf39ccb5ccd31a4d16ca7e5[m
+Merge: bee8bfd bad6872
+Author: JehielL <jehiel.py@gmail.com>
+Date:   Wed Oct 25 17:52:15 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 1a05453026e61f6bc93cc578e8a31bf7a1acb87e[m
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Wed Oct 25 17:51:59 2023 +0200
+
+    para comprobar
+
+[33mcommit bad6872ea4b68c964a94643558a76079f8a30905[m
+Merge: 33c8765 3e259c0
+Author: Johanamacias <148787180+Johanamacias@users.noreply.github.com>
+Date:   Wed Oct 25 17:51:22 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 33c8765e654386f9232563fe6f6d37dd34553102[m
+Author: Johanamacias <148787180+Johanamacias@users.noreply.github.com>
+Date:   Wed Oct 25 17:51:06 2023 +0200
+
+    johana
+
+[33mcommit 3e259c07880ff1f72a6b9df345fe07e8cd765876[m
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Wed Oct 25 17:50:20 2023 +0200
+
+    Update Carlos David Feliz Ramirez.java
+
+[33mcommit bee8bfde6d3dc73c10faf30cd15a5e66a0902d21[m
+Author: JehielL <jehiel.py@gmail.com>
+Date:   Wed Oct 25 17:50:02 2023 +0200
+
+    Update jehielLinarez.txt
+    
+    Prueba desde Github Desktop.
+
+[33mcommit e9b59db544e66b05e1ded497354d2eff21c7f793[m[33m ([m[1;31morigin/Jcblandin-patch-1[m[33m, [m[1;32mJcblandin-patch-1[m[33m)[m
+Author: yesseniach <148784983+yesseniach@users.noreply.github.com>
+Date:   Wed Oct 25 17:49:54 2023 +0200
+
+    prueba 03
+
+[33mcommit 8cd4731cd49c9817128b06018229979a86f547ef[m
+Author: Jehiel Linarez <122569500+JehielL@users.noreply.github.com>
+Date:   Wed Oct 25 17:49:41 2023 +0200
+
+    Update jehielLinarez.txt
+    
+    prueba commit desde github.
+
+[33mcommit 7966bb23621ddca08d7b3245bf9780d626c006d5[m
+Merge: 06224ed 7a7e87c
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 17:49:23 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 06224eddc8181599584244ab91f6b13220ae24f1[m
+Merge: 7df9bf3 b9cdac5
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 17:49:19 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 7a7e87c05f5c21b255bd9fa43cf83e4ffa8b771f[m
+Merge: 0278752 7843794
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 17:46:35 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 0278752744549ede0ca4d39224dbd04efc1fa3e8[m
+Merge: eee4d5c 597a04f
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 17:45:28 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 7843794f7d0eb4e5d374d3deeb7ef30b74431d70[m
+Merge: 7e28574 b9cdac5
+Author: jcblandin <yublandin@gmail.com>
+Date:   Wed Oct 25 17:45:13 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 7e28574e505d9ce2a8e162a31f161e27cc571f28[m
+Author: jcblandin <yublandin@gmail.com>
+Date:   Wed Oct 25 17:45:05 2023 +0200
+
+    hola mundo
+
+[33mcommit b9cdac5ebd9a94a13f1f983e4207c489a2db066e[m
+Author: AngelSigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 17:44:43 2023 +0200
+
+    Conflicto2
+
+[33mcommit dc1314860c5e7e32cfdbcd6e9d812469076de484[m
+Merge: 571654c 597a04f
+Author: angelsc75 <asc7es@gmail.com>
+Date:   Wed Oct 25 17:43:44 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 7df9bf3b62557b447b41b8eee403baec1e9e9f48[m
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 17:43:06 2023 +0200
+
+    Conflicto1
+
+[33mcommit 571654c14bc184be9c3b382f498249ff174b13f9[m
+Author: angelsc75 <asc7es@gmail.com>
+Date:   Wed Oct 25 17:41:38 2023 +0200
+
+    prueba conflicto2
+
+[33mcommit eee4d5c19644710c5295c8032fdf357bf883cbf0[m
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 17:39:34 2023 +0200
+
+    commit desktop
+
+[33mcommit 597a04ff95d589281f0abb8bbb66a617cf5065b3[m
+Author: angelsc75 <148784744+angelsc75@users.noreply.github.com>
+Date:   Wed Oct 25 17:39:30 2023 +0200
+
+    Update angelsanz.txt
+
+[33mcommit f2e7707b223fb54598ba12aa635bca321ded6a6c[m
+Author: Alan Sastre <alan@alansastre.co>
+Date:   Wed Oct 25 17:38:50 2023 +0200
+
+    Update alansastre.md
+
+[33mcommit 5197813d72e545cc6d236200d33bacbf6c4efa07[m
+Author: Alan Sastre <alan@alansastre.co>
+Date:   Wed Oct 25 17:37:47 2023 +0200
+
+    Update alansastre.md
+
+[33mcommit 35604f6202c29203a4f67170afb4239af10f6dc9[m
+Author: yesseniach <148784983+yesseniach@users.noreply.github.com>
+Date:   Wed Oct 25 17:37:22 2023 +0200
+
+    prueba 02
+    
+    paso a paso
+
+[33mcommit 7af7f3142bb62964910c66cd34894a33e885b9ef[m
+Author: SilviaBargaz <148786936+SilviaBargaz@users.noreply.github.com>
+Date:   Wed Oct 25 17:36:13 2023 +0200
+
+    Update README.md
+    
+    silviabargaz
+
+[33mcommit 66b0448377d499cc4d51d9b0330bdb165c4b8ef7[m
+Author: jcblandin <yublandin@gmail.com>
+Date:   Wed Oct 25 17:35:10 2023 +0200
+
+    Create jcblandin.txt
+
+[33mcommit 510b67c8f1bb9fe0a20aca6cf87ce001744e9c0c[m
+Merge: 42c135d 21abb1d
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 17:10:06 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 42c135dd62ec295c7b5de5ff91b98d8ad8aa80b7[m
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 17:10:00 2023 +0200
+
+    Cambio de extension
+
+[33mcommit 21abb1dadf50e0a4f14f135bf33defee4f05dbff[m
+Author: salimijawad <148786253+salimijawad@users.noreply.github.com>
+Date:   Wed Oct 25 17:06:44 2023 +0200
+
+    Add files via upload
+
+[33mcommit 5c9ddb3c878228571f53b158a3f44bd83478c193[m
+Author: Jcblandin <148786257+Jcblandin@users.noreply.github.com>
+Date:   Wed Oct 25 17:06:13 2023 +0200
+
+    Create jcblandin
+
+[33mcommit 01066ebb9535874b19aaa2de171e18d6eb3879f4[m
+Author: Juanpablobarrerovazquez <148786773+Juanpablobarrerovazquez@users.noreply.github.com>
+Date:   Wed Oct 25 17:03:53 2023 +0200
+
+    xx
+
+[33mcommit cfa8ef0f2553f7b9541ef3f52a87fd6c95639d16[m
+Merge: da7ef92 040fe74
+Author: Juanpablobarrerovazquez <148786773+Juanpablobarrerovazquez@users.noreply.github.com>
+Date:   Wed Oct 25 17:02:51 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit da7ef9208c3ecd339bc12e212153c65df31b4a09[m
+Author: Juanpablobarrerovazquez <148786773+Juanpablobarrerovazquez@users.noreply.github.com>
+Date:   Wed Oct 25 17:02:09 2023 +0200
+
+    xxx
+
+[33mcommit 040fe7422735d5bb5a1561dd55d75ccd52664813[m
+Merge: b3d9ad5 0966c1f
+Author: Juanpablobarrerovazquez <148786773+Juanpablobarrerovazquez@users.noreply.github.com>
+Date:   Wed Oct 25 17:01:35 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 0966c1fefc79ad6d7fe56ef488225bd7d25484a1[m
+Merge: e97d3f8 acdaad3
+Author: RONAL VELIZ <148784629+ronalveliz@users.noreply.github.com>
+Date:   Wed Oct 25 17:01:38 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit e97d3f8402b078324fb01add19d62da7c3adeaa5[m
+Author: RONAL VELIZ <148784629+ronalveliz@users.noreply.github.com>
+Date:   Wed Oct 25 17:01:36 2023 +0200
+
+    ronalveliz
+
+[33mcommit acdaad300a04395ace786050bf4be6e138e348f5[m
+Author: lilirubim <losdientesdeava@gmail.com>
+Date:   Wed Oct 25 17:00:32 2023 +0200
+
+    Update lilirubim.txt
+
+[33mcommit ff56dd77e20ded3051733fd8275e1a54ee202b7c[m
+Merge: 6b3a255 b6bfd05
+Author: yesseniach <148784983+yesseniach@users.noreply.github.com>
+Date:   Wed Oct 25 16:59:18 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit b3d9ad569928942c440066d0d1b251a13f75086c[m
+Merge: 88f65ef ff56dd7
+Author: Juanpablobarrerovazquez <148786773+Juanpablobarrerovazquez@users.noreply.github.com>
+Date:   Wed Oct 25 16:59:15 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 6b3a255b2956e74e933039d38f1d0feb7ee6c043[m
+Author: yesseniach <148784983+yesseniach@users.noreply.github.com>
+Date:   Wed Oct 25 16:59:11 2023 +0200
+
+    prueba 01
+    
+    probando repositorio
+
+[33mcommit b6bfd05c1887c59f70a81d8b3e24290ae0b82d00[m
+Merge: 433ed3c 8301287
+Author: angelsc75 <asc7es@gmail.com>
+Date:   Wed Oct 25 16:58:37 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 433ed3c52ca7ee89f6dc2cd242fdce9db74188e5[m
+Author: angelsc75 <asc7es@gmail.com>
+Date:   Wed Oct 25 16:58:32 2023 +0200
+
+    subo
+
+[33mcommit 88f65efeefe65349f3876d706f6d7de73dc918ae[m
+Merge: deffc55 b6bfd05
+Author: Juanpablobarrerovazquez <148786773+Juanpablobarrerovazquez@users.noreply.github.com>
+Date:   Wed Oct 25 16:58:14 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit deffc5581e753489ffe0f0a7705459c4e4996e2b[m
+Merge: 53de51f 8301287
+Author: Juanpablobarrerovazquez <148786773+Juanpablobarrerovazquez@users.noreply.github.com>
+Date:   Wed Oct 25 16:57:17 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 8301287173f988147933d53f0e297cbdc152ff8b[m
+Merge: 74f86e0 c4d2a14
+Author: JehielL <jehiel.py@gmail.com>
+Date:   Wed Oct 25 16:57:12 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 53de51fddce2d6713a7b1d095e97125170e23e7c[m
+Author: Juanpablobarrerovazquez <148786773+Juanpablobarrerovazquez@users.noreply.github.com>
+Date:   Wed Oct 25 16:57:07 2023 +0200
+
+    juan pablo
+
+[33mcommit 74f86e0f5d10dca6d121e54fcbd84091f4433855[m
+Author: JehielL <jehiel.py@gmail.com>
+Date:   Wed Oct 25 16:57:05 2023 +0200
+
+    agregado archivo .txt
+
+[33mcommit c4d2a144740bc2e65f06e2f812adf26c6a3be7e7[m
+Merge: bf250c5 f6d31ab
+Author: RenzoPerdomo <148784429+RenzoPerdomo@users.noreply.github.com>
+Date:   Wed Oct 25 16:56:58 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit f6d31ab94e20f3a4b791b6f43978881ae1f3e05f[m
+Merge: f198393 25a8576
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Wed Oct 25 16:56:23 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 25a8576e951ca243b1e159baf5c96f98dfafa7a4[m
+Merge: 1634c6a 98a9945
+Author: angelmaria <angelmaria75@gmail.com>
+Date:   Wed Oct 25 16:55:34 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit f1983939cd8e08a408a457cca9f50eed9b2440e0[m
+Author: Carlos David feliz Ramírez <95054371+CarlosDavidFelizRamirez@users.noreply.github.com>
+Date:   Wed Oct 25 16:55:27 2023 +0200
+
+    codigo Java para internalizar las fechas
+
+[33mcommit bf250c558c7a6349c49967dcda832bf728c1dad7[m
+Merge: ca5feba 20e18d6
+Author: RenzoPerdomo <148784429+RenzoPerdomo@users.noreply.github.com>
+Date:   Wed Oct 25 16:54:55 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit ca5feba1325a70f07416d81f9819cb163ad224b4[m
+Author: RenzoPerdomo <148784429+RenzoPerdomo@users.noreply.github.com>
+Date:   Wed Oct 25 16:54:48 2023 +0200
+
+    Prueba Renzo
+
+[33mcommit 98a9945e1d7bc2f88e1c3c766727ba7394a6675a[m
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 16:54:41 2023 +0200
+
+    Archivo alansastre
+
+[33mcommit 1634c6ac20773afd255678849cbce837f4b4ba21[m
+Author: angelmaria <angelmaria75@gmail.com>
+Date:   Wed Oct 25 16:53:27 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 20e18d6e016c6ab878ee6b2ff790d37ca179be25[m
+Merge: 8bc36b7 c1ccaac
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 16:51:52 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 8bc36b70f80425635a85befd3ef10ff9567289c3[m
+Author: Angel Sigueros <pickassblog@gmail.com>
+Date:   Wed Oct 25 16:51:48 2023 +0200
+
+    Prueba AngelS
+
+[33mcommit c1ccaac810733010b97023d61ae17a7b847403cb[m
+Author: lilirubim <losdientesdeava@gmail.com>
+Date:   Wed Oct 25 16:51:10 2023 +0200
+
+    Update lilirubim.txt
+
+[33mcommit bef336bf83079c5d507b427b3e3480564f91da3f[m
+Author: fran-eliot <ramirez.martin.francisco@gmail.com>
+Date:   Wed Oct 25 16:50:23 2023 +0200
+
+    Create FranRamirez.md
+
+[33mcommit aa339d43118320fae64f697b6545b1aedbb568f2[m
+Merge: 7246c2f 9544f82
+Author: angelmaria <angelmaria75@gmail.com>
+Date:   Wed Oct 25 16:49:28 2023 +0200
+
+    Merge branch 'main' of https://github.com/alansastre/java_pruebas
+
+[33mcommit 7246c2f99bf6aae77f27d5653e89b28db3fdd370[m
+Author: angelmaria <angelmaria75@gmail.com>
+Date:   Wed Oct 25 16:49:24 2023 +0200
+
+    archivo de texto creado por Angel Martinez
+
+[33mcommit 9544f82dd409a889e4585aaaa64083d0ab8ceaea[m
+Author: lilirubim <losdientesdeava@gmail.com>
+Date:   Wed Oct 25 16:48:42 2023 +0200
+
+    Create lilirubim.md
+
+[33mcommit 1bd228f693ce280222814751491de99b3fdc4b0e[m
+Author: angelmaria <angelmaria75@gmail.com>
+Date:   Wed Oct 25 16:45:19 2023 +0200
+
+    cambio de Angel Martinez
+    
+    Punto añadido
+
+[33mcommit 23d992c0b354c36b2060db060897efd06f635697[m
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 16:37:22 2023 +0200
+
+    PRueba
+
+[33mcommit 485f223c1804b0ac3b9d86dd3909d52320a1a08c[m
+Author: alansastre <alan@alansastre.co>
+Date:   Wed Oct 25 16:35:52 2023 +0200
+
+    Initial commit
