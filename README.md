@@ -4,7 +4,11 @@ Prueba.
 silvia.
 prueba
 cambio
+<<<<<<< HEAD
 leonuevo 
-## SIGUE LA PRUEBA
 Javinuevo
+=======
+leonuevo
+# Javi se colo probando
+>>>>>>> develop
 
