@@ -3,10 +3,11 @@ Algoritmo Encuesta
 	
 	Escribir "Edad"
 	leer age
+	Escribir "Tienes tutor: "
+	leer hasTutor
 	
 	
-	hasTutor <- Verdadero 
-	hasAccess <- age >= 18 Y age <= 30 
+	hasAccess <- age >= 18 Y age <= 30 Y hasTutor
 	Escribir "has access:" hasAccess
 	Escribir "isAdult: ", age >= 18, " hasTutor: ", hasTutor, " result:", hasAccess
 	
@@ -50,13 +51,13 @@ Algoritmo Encuesta
 	
 	Si Correcto Y passed Y hasAccess Entonces
 		Escribir "Es Apto "
-	
+		
 	SiNo 
 		Escribir "No Es Apto"
 	Fin Si
-
 	
 	
-
-
+	
+	
+	
 FinAlgoritmo
