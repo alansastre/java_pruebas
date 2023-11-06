@@ -7,7 +7,7 @@ Algoritmo Encuesta
 	leer hasTutor
 	
 	
-	hasAccess <- age >= 18 Y age <= 30 Y hasTutor
+	hasAccess <- age >= 18 Y age <= 30 O hasTutor
 	Escribir "has access:" hasAccess
 	Escribir "isAdult: ", age >= 18, " hasTutor: ", hasTutor, " result:", hasAccess
 	
