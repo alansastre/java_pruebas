@@ -1,0 +1,49 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    
+    <form action="/backend" method="post">
+
+        <div>
+            <label for="firstName">Nombre</label>
+            <input type="text" name="firstName" id="firstName">
+        </div>
+
+        <div>
+            <label for="email">Correo electrónico</label>
+            <input type="email" name="email" id="email">
+        </div>
+
+        <div>
+            <label for="age">Edad</label>
+            <input type="number" name="age" id="age" min="1">
+        </div>
+
+        <div>
+            <label for="salary">Salary</label>
+            <input type="number" name="salary" id="salary" step="200">
+        </div>
+
+        <div>
+            <label for="weight">Weight</label>
+            <input type="number" name="weight" id="weight" step="0.01" min="50" max="250">
+        </div>
+
+
+        <button type="submit">Enviar</button>
+    </form>
+
+ 
+</body>
+</html>
+
+
+
+
