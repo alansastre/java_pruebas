@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<!-- Ejemplo de atributo en la etiqueta html para indicar el idioma -->
+<html lang="es">
+    <head>
+        <title>Enlaces</title>
+       <style>
+            p { color: darkred;}
+
+
+       </style> 
+            
+        
+    </head>
+    <body>
+        
+
+        <!-- El atributo target nos permite indicar que el enlace se abra en una pestaña nueva, especialmente útil cuando ponemos enlaces externos
+        y no queremos el usuario pierda la página actual en la que está navegando -->
+        <a href="https://fundacionadecco.org/" target="_blank">Fundación Adecco</a> 
+        <a href="7-tablas.html" target=""></a>
+
+        <br>
+        <!-- Urls absolutas: aquellas en las que se especifica la url completa con el protocolo http -->
+        <a href="https://fundacionadecco.org/" target="_blank">Fundación Adecco</a> 
+        <br>
+        <!-- Urls relativas: aquellas que no se especifica el dominio web de manera que el navegador las busca sobre la url actual 
+        en la que el usuario ha pulsado el enlace -->
+
+        <a href="file:///home/alan/Escritorio/html/prueba.html" target="_blank">Pantalla prueba.html</a> 
+        <br>
+        <a href="/html/index.html" target="_blank">Nueva pantalla html</a> 
+        <br>
+
+        <!-- Es muy común que un enlace tenga una imagen en vez de texto. -->
+        <a href="https://fundacionadecco.org/" target="_blank">
+            <img src="https://via.placeholder.com/150" alt="imagen prueba">
+        </a>
+        <br>
+        <div>
+            <a href="https://fundacionadecco.org/" target="_blank">
+                <button style=color:red; style="font-size: 20px;" title="Web Fundación Adecco">Fundación Adecco
+
+                </button>
+            </a>
+
+
+
+
+        </div>
+
+        <!-- También es común que un enlace apunte a un correo electrónico:  -->
+        <a href="mailto:alan@alansastre.co">Enviar correo 1</a> 
+        <a href="tel:987987987">Llamar por Telefono</a> 
+        <a href="https://twitter.com/intent/tweet?text=">Publicar en Twitter</a>
+        <br>
+
+        <!-- El atributo title nos permite especificar un tooltip para el enlace cuando el ratón pase por encima: -->
+        <a href="mailto:alan@alansastre.co" title="Enviar correo electrónico a alan@alansastre.co">Enviar correo 2</a> 
+        <br>
+
+        <!-- ANCLAS: es muy común utilizar enlaces que te llevan a una parte específica de una página web
+        Eso es especialmente útil en páginas web compuestas por una una pantalla llamada Landing Page
+        en la cual los enlaces de la barra de navegación te dirigen a partes concretas de la misma pantalla. 
+
+        Para utilizar este tipo de enlaces primero debemos crear un identificador sobre el elemento al que queremos redirigir
+        Por ejemplo: -->
+
+        <!-- 1. asignar un identificador a un elemento, normalmente un encabezado -->
+        <h2 id="contacto">Contacto</h2>
+        <h2 id="contacto2">Contacto</h2>
+
+        <!-- 2. Una vez creado un elemento con identificador mediante el atributo id podemos referenciarlo desde un enlace utilizando # -->
+        <br>
+        <br>
+        <br>
+        <br> 
+
+<p style="color: blue;"> 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit sed vulputate mi sit amet mauris commodo quis imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Neque convallis a cras semper auctor neque vitae. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Turpis massa sed elementum tempus egestas sed. Dignissim cras tincidunt lobortis feugiat vivamus. Mi ipsum faucibus vitae aliquet nec ullamcorper sit. Ornare massa eget egestas purus viverra accumsan. Vulputate enim nulla aliquet porttitor. Elit ut aliquam purus sit amet luctus. Nec dui nunc mattis enim ut. In iaculis nunc sed augue lacus viverra vitae congue eu. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Auctor urna nunc id cursus. Consectetur adipiscing elit pellentesque habitant morbi tristique. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Eu facilisis sed odio morbi quis commodo odio.
+</p>
+
+<p style="font-size: 20px;"> 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit sed vulputate mi sit amet mauris commodo quis imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Neque convallis a cras semper auctor neque vitae. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Turpis massa sed elementum tempus egestas sed. Dignissim cras tincidunt lobortis feugiat vivamus. Mi ipsum faucibus vitae aliquet nec ullamcorper sit. Ornare massa eget egestas purus viverra accumsan. Vulputate enim nulla aliquet porttitor. Elit ut aliquam purus sit amet luctus. Nec dui nunc mattis enim ut. In iaculis nunc sed augue lacus viverra vitae congue eu. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Auctor urna nunc id cursus. Consectetur adipiscing elit pellentesque habitant morbi tristique. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Eu facilisis sed odio morbi quis commodo odio.
+</p>
+
+<p style= "color:chartreuse;">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit sed vulputate mi sit amet mauris commodo quis imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Neque convallis a cras semper auctor neque vitae. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Turpis massa sed elementum tempus egestas sed. Dignissim cras tincidunt lobortis feugiat vivamus. Mi ipsum faucibus vitae aliquet nec ullamcorper sit. Ornare massa eget egestas purus viverra accumsan. Vulputate enim nulla aliquet porttitor. Elit ut aliquam purus sit amet luctus. Nec dui nunc mattis enim ut. In iaculis nunc sed augue lacus viverra vitae congue eu. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Auctor urna nunc id cursus. Consectetur adipiscing elit pellentesque habitant morbi tristique. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Eu facilisis sed odio morbi quis commodo odio.
+</p>
+        <a href="#contacto" title="Contacto">Contacta con nosotros</a>
+
+        <!-- En caso de que el enlace lo estemos creando en una página distinta a donde está el elemento con identificador, tendremos que 
+        especificar la url absoluta o relativa que indique la página donde está el elemento con identificador, por ejemplo: -->
+
+        <a href="https://www.ejemploprueba.com/#contact" title="Contacto">Contacta con nosotros</a>
+
+    </body>
+</html>

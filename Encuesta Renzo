@@ -1,0 +1,45 @@
+Algoritmo Encuesta
+	
+	
+	Escribir "Edad"
+	leer age
+	
+	
+	hasTutor <- Verdadero 
+	hasAccess <- age >= 18 Y age <= 30 
+	Escribir "has access:" hasAccess
+	Escribir "isAdult: ", age >= 18, " hasTutor: ", hasTutor, " result:", hasAccess
+	
+	Escribir "Nota Prueba Escrita"
+	leer testChoice 
+	Escribir "Nota Practica"
+	leer individualPractice 
+	
+	
+	passed <- testChoice >= 5 Y individualPractice >= 5
+	Escribir  "Usando Y: ", passed
+	NotaMedia <- (testChoice + individualPractice) / 2 
+	Escribir "Nota: " NotaMedia
+	Aprobado <- NotaMedia >= 5
+	Escribir "Aprobado?: " Aprobado
+	
+	
+	Escribir "Vives en Madrid?"
+	Leer ViveEnMadrid
+	Escribir "Tienes Vehìculo?"
+	Leer TieneVehiculo
+	
+	Correcto <- ViveEnMadrid o TieneVehiculo
+	
+	EsApto <- Correcto Y passed Y hasAccess 
+	
+	
+	
+
+	Escribir "Es apto: " EsApto
+
+	
+
+
+FinAlgoritmo
+

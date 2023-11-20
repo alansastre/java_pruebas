@@ -1,0 +1,32 @@
+Algoritmo switch 
+	Repetir
+		Escribir "Introduce un dia de la semana: "
+		leer dias
+		dias = Mayusculas(dias)
+		numerodias <- 0
+		Segun dias Hacer
+			"LUNES":
+				numerodias <- 1
+			"MARTES":
+				numerodias <- 2
+			"MIERCOLES":
+				numerodias <- 3
+			"JUEVES":
+				numerodias <- 4 
+			"VIERNES":
+				numerodias <- 5 
+			"SABADO":
+				numerodias <- 6
+			"DOMINGO":
+				numerodias <- 7 
+			De Otro Modo:
+				Si numerodias = 0 Entonces
+					Escribir "No se ha podido encontrar el numero de dia"
+				SiNo
+					Escribir "El dia de la semana es: " numerodias
+				Fin Si
+		Fin Segun
+		Escribir "el valor introducido es: " dias " y corresponde a:" numerodias
+	Hasta Que numerodias >= 1 y numerodias <=7
+
+FinAlgoritmo
