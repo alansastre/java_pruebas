@@ -46,7 +46,7 @@
         </div>
 
         <div>
-            <label for="weight">Weight (kg)</label>
+            <label for="knoweight">Weight (kg)</label>
             <input type="number" name="weight" id="weight" step="0.01">
         </div>
 
@@ -60,11 +60,56 @@
 
         <!-- foto -->
         <!-- fecha cumpleaños -->
-        
+        <div>
+            <select name="company" id="company">
+                <option value="" disabled selected>Seleccionar empresa</option>
+                <option value="adecco"> Fundacion Adecco</option>
+                <option value="certidevs">Certidevs</option>
+                <option value="CosmicDevelopment">CosmicDevelopments</option>
+    
+    
+            </select>
+
+        </div>
+        <div>
+
+            <label for="Knowledge">Lenguajes de programacion conocidos</label>
+            <select name="Knowledge" id="Knowledge"multiple>
+                <option value="" disabled selected>Seleccionar Lenguaje</option>
+                <option value="java">Java</option>
+                <option value="python">Phython</option>
+                <option value="css">CSS</option>
+                <option value="html">HTML</option>
 
 
+            </select>
+        </div>
+        <div>
+            <label for="pass">Contraseña</label>
+            <input type="password" name="pass" id="pass">
+            <button type="button" onclick="showPassword()">Mostrar password</button>
+        </div>
+           
+      
         <button type="submit">Enviar</button>
+
     </form>
+
+    <script>
+        function showPassword(); {
+            let passInput = document.getElementById('pass');
+            if (passInput.type === 'password') {
+             passInput.type = 'text';
+            } else {
+                passInput.type = 'password';
+         } 
+        }
+            
+
+
+
+
+    </script>
 
  
 </body>
@@ -98,11 +143,6 @@
 
 
 
-
-
-
-
-50">
 
 
 
