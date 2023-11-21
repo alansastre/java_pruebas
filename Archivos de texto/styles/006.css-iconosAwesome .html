@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DTipografías2</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />  
+</head>
+<body>
+  <button>
+    <i class="fa-solid fa-user-pen"></i>
+     
+
+  </button>
+  <button>
+    <i class="fa-solid fa-user-pen"></i>
+    Editar usuario
+    <button>
+      <i class="fa-solid fa-user-pen"></i>
+       
+  
+    </button>
+    <button>
+      <i class="fa-regular fa-user"></i>
+      Agregar usuario
+  
+
+  </button>
+  <div>
+    <br>
+    <br>
+    <br>
+
+
+    <button onclick="toggleImage()">
+      <i class="fa-solid fa-poop"></i>
+      Ir al tigre
+  
+    </button>
+    <img id= "retrete" style="display: none; max-width: 100px;" src="C:\Users\jabaroosss\Desktop\java_pruebas\Archivos de texto\styles\ase_0017.webp" alt="No Aguanto más">
+    
+
+  </div>
+  <script>
+    function toggleImage() {
+        let image = document.getElementById('retrete');
+        if (image.style.display === 'none') {
+            image.style.display = 'block';
+        } else {
+          image.style.display = 'none';
+        }
+    }
+</script>
+
+</body>
+</html>
