@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    
+    <form action="/backend" method="post">
+
+        <div>
+            <label for="firstName">Nombre</label>
+            <input type="text" name="firstName" id="firstName">
+        </div>
+
+        <div>
+            <label for="lastName">Apellido</label>
+            <input type="text" name="lastName" id="lastName" value="García">
+        </div>
+
+        <div>
+            <label for="nif">NIF/ DNI</label>
+            <input type="text" name="nif" id="nif" placeholder="98745612H">
+        </div>
+
+        <div>
+            <label for="phone">Phone</label>
+            <input type="text" name="phone" id="phone" placeholder="+34666555444">
+        </div>
+
+        <div>
+            <label for="email">Correo electrónico</label>
+            <input type="email" name="email" id="email" required>
+        </div>
+
+        <div>
+            <label for="age">Edad</label>
+            <input type="number" name="age" id="age">
+        </div>
+
+        <div>
+            <label for="salary">Salary</label>
+            <input type="number" name="salary" id="salary" step="200">
+        </div>
+
+        <div>
+            <label for="weight">Weight (kg)</label>
+            <input type="number" name="weight" id="weight" step="0.01">
+        </div>
+
+        <div>
+            <label for="height">Height (cm)</label>
+            <input type="number" name="height" id="height" step="0.01" min="50" max="240">
+        </div>
+
+        <div>
+            <label for="bio">Biografía</label>
+            <textarea id="bio" name="bio" rows="10" cols="50" minlength="10" maxlength="100"></textarea>
+        </div>
+
+        <div>
+            <input type="checkbox" name="terms" id="terms" required>
+
+            <label for="terms">He leido y acepto los 
+                <a href="#">terminos y condiciones.</a>
+            </label>
+        </div>
+        <label for="diacumple">dia naciemiento</label>
+        <input type="date" id="birthday" required><div> min="1900-01-01" max="2023-11-16"
+        
+        
+        </div>
+        
+        
+        <!-- genero -->
+
+        <!-- foto -->
+        <!-- fecha cumpleaños -->
+
+
+
+        <button type="submit">Enviar</button>
+    </form>
+
+ 
+</body>
+</html>
